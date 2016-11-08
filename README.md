@@ -1,3 +1,5 @@
 # python_leet
-# python_leet
-# python_leet
+
+Questions done:
+TwoSum
+IsPalindrome
